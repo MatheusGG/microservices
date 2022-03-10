@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0fe9f311-489b-4694-9074-fe2dbb63c3d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../configuration-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-catalog/src/main/java/one/digitalinnovation/experts/productcatalog/config/ElasticSearchConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-catalog/src/main/java/one/digitalinnovation/experts/productcatalog/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-catalog/src/main/java/one/digitalinnovation/experts/productcatalog/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-catalog/src/main/java/one/digitalinnovation/experts/productcatalog/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-catalog/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service-discovery/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app-repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../estruturasDeDados/src/main/java/pilhas/lifo/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../estruturasDeDados/src/main/java/pilhas/lifo/No.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../estruturasDeDados/src/main/java/pilhas/lifo/Pilha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/src/main/java/one/digitalinnovation/personapi/PersonapiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/src/main/java/one/digitalinnovation/personapi/controller/PersonController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/src/main/java/one/digitalinnovation/personapi/dto/request/PersonDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/src/main/java/one/digitalinnovation/personapi/dto/request/PhoneDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/src/main/java/one/digitalinnovation/personapi/dto/response/MessageResponseDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/src/main/java/one/digitalinnovation/personapi/entity/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/src/main/java/one/digitalinnovation/personapi/entity/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/src/main/java/one/digitalinnovation/personapi/enums/PhoneType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/src/main/java/one/digitalinnovation/personapi/exception/PersonNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/src/main/java/one/digitalinnovation/personapi/mapper/PersonMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/src/main/java/one/digitalinnovation/personapi/repository/PersonRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/src/main/java/one/digitalinnovation/personapi/service/PersonService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/src/test/java/one/digitalinnovation/personapi/PersonapiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/src/test/java/one/digitalinnovation/personapi/service/PersonServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/src/test/java/one/digitalinnovation/personapi/utils/PersonUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/src/test/java/one/digitalinnovation/personapi/utils/PhoneUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../personapi/system.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste/src/com/company/QtdVogais.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../config-server">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../config-server-">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../configuration-server">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../gateway">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../product-catalog">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../service-discovery">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/../product-catalog">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../config-server-">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../configuration-server">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="configuration-server" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="configuration-server" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="configuration-server" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="product-catalog" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="product-catalog" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="product-catalog" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26BudQbojkAKK9fU6zEs61tVZXq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gateway" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dio_2.0\configuration-server\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.product-catalog [bootRun]">
+    <configuration name="configuration-server [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../configuration-server" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="product-catalog [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../product-catalog" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="dio-experts-session" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="dio-experts-session" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.product-catalog [bootRun]" />
+        <item itemvalue="Gradle.configuration-server [bootRun]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fe9f311-489b-4694-9074-fe2dbb63c3d2" name="Changes" comment="" />
+      <created>1646909391675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646909391675</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
